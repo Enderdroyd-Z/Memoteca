@@ -1,27 +1,48 @@
-# Memoteca
+# 📝 Memoteca
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+**Memoteca** é uma aplicação web onde você pode adicionar, editar e excluir frases, pensamentos, ideias e discursos, com a opção de destacar a autoria de cada texto. O projeto foi desenvolvido utilizando **Angular** e **json-server** para simular uma API fake.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🌟 Funcionalidades:
 
-## Code scaffolding
+- 🆕 Adicionar novos pensamentos
+- ✏️ Editar pensamentos existentes
+- ❌ Excluir pensamentos
+- 👤 Destacar a autoria de cada texto
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🚀 Tecnologias:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Angular** para o frontend e gerenciamento de componentes
+- **TypeScript** para tipagem estática e segurança no código
+- **HTML** e **CSS** 
+- **json-server** para simular uma API fake e armazenar os dados temporariamente
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## 🛠 Como Instalar e Rodar o Projeto:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+git clone https://github.com/seu-usuario/memoteca.git
+cd memoteca
+npm install
+npm start
+ng serve
+```
+Acesse: http://localhost:4200 no navegador
 
-## Further help
+### Esse projeto foi feito com o curso: **Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD** da Alura, onde foi trabalhado:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Criar uma aplicação completa em Angular
+- Implementar operações CRUD
+- Simular uma API
+- Organizar a aplicação em componentes reutilizáveis
+  
+🖌️  [Figma do projeto](https://www.figma.com/community/file/1418670443401480388)
+
+ 📖 [Certificado](https://cursos.alura.com.br/user/be-srodrigues24/course/angular-explorando-framework/certificate)
+
+
